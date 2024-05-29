@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-🔭 Education: Msc Machine Learning, KTH Sweden
-🌱 Interests: Painting and pottery
-👯 Fun fact: Just did an exchange semester in Singapore! It was amazing!
+- 🔭 Education: Msc Machine Learning, KTH Sweden
+- 🌱 Interests: Painting and pottery
+- 👯 Fun fact: Just did an exchange semester in Singapore! It was amazing!
 
 
 <!--
